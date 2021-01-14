@@ -10,6 +10,8 @@ Output = [10]
 -6 collides with 4 and 4 gets destroyed.
 Then -6 collides with 10 and -1 gets destroyed.
 
+Modification of Leetcode 735
+
 */
 
 #include <iostream>
